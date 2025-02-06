@@ -5,3 +5,6 @@ console. ReadLine();
 int multiply = a*b;
 console. WriteLine("multiply") ;
 console. ReadLine() ;
+int subtract = a-b;
+console. WriteLine("Subtract") ;
+console. ReadLine() ;
