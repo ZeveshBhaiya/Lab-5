@@ -2,3 +2,6 @@ int a , b;
 int sum = a+b;
 console.WriteLine("Add");
 console. ReadLine();
+int multiply = a*b;
+console. WriteLine("multiply") ;
+console. ReadLine() ;
