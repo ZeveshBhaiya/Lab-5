@@ -1,0 +1,4 @@
+int a , b;
+int sum = a+b;
+console.WriteLine("Add");
+console. ReadLine();
